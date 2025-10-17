@@ -22,7 +22,7 @@ And 3 type of free server which could be obtained:
 - Bot Hosting
 - Databases
 
-<img src="../../../../src/assets/billinghomepage.png" alt='4 type of server'>
+<img src="https://github.com/RumiDaNeko/cloudcode-docs/raw/main/src/assets/billinghomepage.png?raw=true" alt='4 type of server'>
 
 Theres also addons where you can get more spec for your current server (Paid)
 
@@ -30,19 +30,19 @@ Usually paid server give out better performance, better region choice and an low
 
 Now to get started, pick out a category that you need and select a plan. Here is an example of minecraft plans:
 
-<img src="../../../../src/assets/plans.png" alt='4 type of server'>
+<img src="https://github.com/RumiDaNeko/cloudcode-docs/raw/main/src/assets/plans.png?raw=true" alt='4 type of server'>
 
 After selecting one, add it to the cart. This is where you will config your server names and other configuration:
 
-<img src="../../../../src/assets/plans.png" alt='add stuff to cart'>
+<img src="https://github.com/RumiDaNeko/cloudcode-docs/raw/main/src/assets/plans.png?raw=true" alt='add stuff to cart'>
 <em> Adding a server to cart </em>
 
-<img src="../../../../src/assets/configuringaserver.png" alt='config stuff'>
+<img src="https://github.com/RumiDaNeko/cloudcode-docs/raw/main/src/assets/configuringaserver.png?raw=true" alt='config stuff'>
 <em> Configure server properties </em>
 
 Now press checkout (and pay if required) to get a server!
 
-<img src="../../../../src/assets/payinpurchase.png" alt='the Payment page'>
+<img src="https://github.com/RumiDaNeko/cloudcode-docs/raw/main/src/assets/payinpurchase.png?raw=true" alt='the Payment page'>
 
 > Please note that after ordering a server for the first time, you must open your mailbox and finalize on creating your account on the control panel.</br>
 > The mail could take up to 10 minutes to deliver depend on the mail server
