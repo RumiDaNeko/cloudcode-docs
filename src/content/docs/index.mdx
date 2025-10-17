@@ -1,0 +1,36 @@
+---
+title: Its the cloudcode docs!!
+description: Welcome to the cloudcode docs, read through the docs and get through on how to create server!
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+hero:
+  tagline: Welcome to the cloudcode docs, read through the docs and get through on how to create server!
+  image:
+    file: https://github.com/RumiDaNeko/img.rumi.public/blob/main/PfPNySWvbS4gIhibtGrYWTgdPOZYcY7xE2ZPGVEq.png?raw=true
+  actions:
+    - text: Lets Start!
+      link: /guides/account
+      icon: right-arrow
+    - text: Main Website
+      link: https://cloudcode.site/
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## What you should do right now ✨
+
+<CardGrid stagger>
+	<Card title="Take your first step" icon="pencil">
+		Read on [this page](/guides/account) to get more info on how to started
+	</Card>
+	<Card title="The Billing system" icon="document">
+		Take a look at this [page](/guides/billing/) to see how our billing system work
+	</Card>
+	<Card title="Create new server" icon="add-document">
+		Need a server? all you need to know is [here](/guides/gettingservers/)
+	</Card>
+	<Card title="Manage those servers" icon="setting">
+		Get stuck when trying to manage your server? Heres a friendly [guide](/guides/managingserver/)
+	</Card>
+</CardGrid>
